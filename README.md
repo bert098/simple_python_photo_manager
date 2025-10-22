@@ -25,8 +25,7 @@ image_library_cli/
 
 ### Windows (PowerShell)
 ```powershell
-git clone https://github.com/<your-user>/image-library-cli.git
-cd image-library-cli
+git clone https://github.com/bert098/simple_python_photo_manager.git
 py -3 -m venv .venv
 .venv\Scripts\Activate.ps1
 pip install -r requirements.txt
@@ -34,8 +33,7 @@ pip install -r requirements.txt
 
 ### macOS / Linux
 ```bash
-git clone https://github.com/<your-user>/image-library-cli.git
-cd image-library-cli
+git clone https://github.com/bert098/simple_python_photo_manager.git
 python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
